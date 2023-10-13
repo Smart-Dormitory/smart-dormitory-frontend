@@ -15,7 +15,7 @@
 ## 🔨 Tech Stacks Used
 - [React](https://ko.legacy.reactjs.org/)
 - [Recoil](https://recoiljs.org/ko/)
-- [Styled-components](https://styled-components.com/)
+- [TailwindCSS](https://tailwindcss.com/)
 - [Vite](https://ko.vitejs.dev/)
 
 <br>
@@ -51,3 +51,7 @@
 ### 10/11
 - 디자인 프로토타입을 받아 구현 시작, Header 컴포넌트 완성
 - styled-components 를 tailwindcss 로 전환
+
+### 10/22
+- Main 컴포넌트 완성
+- 회원가입, 로그인, 공지사항, 식단 API 명세 작성 완료
