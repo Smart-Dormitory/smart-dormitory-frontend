@@ -53,8 +53,11 @@
 - styled-components 를 tailwindcss 로 전환
 
 ### 10/12
-- Main.jsx 컴포넌트 완성
+- Main.jsx 컴포넌트 구현
 - 회원가입, 로그인, 공지사항, 식단 API 명세 작성 완료
 
-  ### 10/15
-- Notice.jsx 컴포넌트 완성
+### 10/15
+- Notice.jsx 컴포넌트 구현
+
+### 10/20
+- Menu.jsx 컴포넌트 구현
