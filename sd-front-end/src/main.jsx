@@ -9,7 +9,8 @@ import Login from "./pages/Login.jsx";
 
 const router = createBrowserRouter([
   {
-    
+    path: "/",
+    element: <App/>,
     errorElement : <NotFound/>,
     children:[
       {
