@@ -1,6 +1,5 @@
 import React from "react";
 import {FiUser} from "react-icons/fi";
-
 export default function Main() {
   return (
     <>
@@ -19,13 +18,7 @@ export default function Main() {
             <p className="text-white text-sm">미래동 205 A</p>
           </div>
         </div>
-        
-        
       </div>
-      
-      
-      
-      
     </>
   );
 }
