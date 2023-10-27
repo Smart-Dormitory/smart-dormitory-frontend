@@ -1,0 +1,15 @@
+
+{
+  "login": [{
+    "name": "손준호",
+    "building": "인재동",
+    "roomNumber": "205",
+    "jwt": "토큰값"
+  }],
+  "logout": [{
+    "message" : "logout"
+  }]
+}
+
+
+
