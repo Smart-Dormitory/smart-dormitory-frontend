@@ -61,3 +61,7 @@
 
 ### 10/20
 - Menu.jsx 컴포넌트 구현
+
+### 10/27 
+- react-router-dom 으로 변경
+- 비동기 상태관리 라이브러리로 tanstack query 설정
